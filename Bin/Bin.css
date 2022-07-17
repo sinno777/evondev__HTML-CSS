@@ -1,0 +1,56 @@
+* {
+    box-sizing: border-box;
+  }
+html {
+    font-size: 62.5%;
+     }
+
+
+/* .box5 {
+    width: 40rem;
+    height: 40rem;
+    border-radius: 50%;
+    object-fit: cover;
+    text-align: center;
+}
+.box6 {
+    width: 40rem;
+    height: 40rem;
+    background: url("https://images.unsplash.com/photo-1657562292709-88c380ee45da?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwyMnx8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=60") no-repeat center right / cover;
+    border-radius: 50%;
+} */
+
+/* .background{
+    width: 70rem;
+    height: 50rem;
+    background: url("https://images.unsplash.com/photo-1657597245745-541f2e63924d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHw0fHx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=700&q=60") no-repeat center / cover ;
+    border-radius: 20%;
+}
+a{
+    text-decoration: none;
+    color: aliceblue;
+    font-size: 2rem;
+    padding: 1rem 4rem;
+    margin: 3rem 3rem;
+    text-align: center;
+    background-color: rebeccapurple;
+}
+ .button2:hover{
+    background-color: bisque;
+    color: royalblue;
+ }
+ .button1:active{
+    background-color: aqua;
+    color: black;
+ }
+ .button3:visited{
+    background-color: red;
+    color: aquamarine;
+ }
+.button2--rounded1{
+    border-radius: 9px;
+}
+.button2--rounded2{
+    border-radius: 10rem;
+} */
+
