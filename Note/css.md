@@ -113,3 +113,7 @@ Ex: <div data="value">abx</div>
 
 KÍ TỰ/DÒNG ĐẦU VIẾT HOA:
 p :: first-letter/line {...}
+
+TRANSITION
+transition: poroperty timer kiểuchạy
+ex: transition: all 0.2s linear

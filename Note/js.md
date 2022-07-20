@@ -72,6 +72,25 @@ IIFE -- immediately invoked function execution: viết hàm phát chạy ngay đ
 (function () {
   console.log("This is a IIFE function")
 })
+***Warning: can use arrow function to NGẮN gọn
+
+                                                          CLOSURE 
+--> tk con can access vào các var của tk cha
+--> có thể recall lại đc đối vs CLOSURE
+
+                                                          DATE OBJECT
+new Date() --> print now data
+new Date(timestamp) --> base on timestamp to print date
+new Date(year, month, day, hours, minutes, seconds, miliseconds) 
+new Date(date string) -->
+.getFullyear() --> print năm sinh 
+.set.... --> thiết lập lại các get có sẵn
+.toDateString() --> day month ngàymấy year
+.toLocaledateString("vi-VI") --> dd/m/yyyy
+.toTimeString() --> 00:22:00 GMT+0700 (Indochina time)
+setTimeout(..., seconds) --> carry out lệnh after 1 for time defined
+setInterval(..., seconds) --> sau for time thì carry out lệnh
+050
 
                                                             EMMET
 #thing - id
@@ -82,3 +101,4 @@ ul>li*10{item$}
 ul>li.item*10 - class item similar to 
 Tag.class + tag2.class …
 > - create ra son 
+
